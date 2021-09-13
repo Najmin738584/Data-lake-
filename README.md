@@ -13,8 +13,8 @@ There are two datasets that reside in S3.
 ### preliminaries
 
 Make sure you have an AWS secret and access key and an own S3-Bucket as well. Then edit the dl.cfg file the following entries:
-AWS_ACCESS_KEY_ID = 
-AWS_SECRET_ACCESS_KEY = 
+AWS_ACCESS_KEY_ID =                     
+AWS_SECRET_ACCESS_KEY =                
 
 ### ETL Pipeline
 
